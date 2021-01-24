@@ -1,0 +1,3 @@
+include ':JayWin'
+include ':app'
+rootProject.name = "Mungara"
